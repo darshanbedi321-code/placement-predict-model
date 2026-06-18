@@ -1,5 +1,9 @@
 🎓 Placement Prediction System
+
+
 An end-to-end Machine Learning web application that predicts a student's placement probability based on academic performance (CGPA) and aptitude (IQ Score). The application leverages a trained Logistic Regression model and provides instant predictions through an interactive Streamlit interface.
+
+
 🚀 Features
 Predicts student placement outcomes in real time.
 Displays placement probability as a confidence score.
